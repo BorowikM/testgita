@@ -1,2 +1,6 @@
 zaloguj usera
 otwórz
+
+dodanie logowania google
+zaloguj usera google
+otwórz google
