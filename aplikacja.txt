@@ -4,3 +4,8 @@ otwórz
 dodanie logowania google
 zaloguj usera google
 otwórz google
+
+logowanie microsoft
+zaloguj usera microsoft
+otwórz
+
