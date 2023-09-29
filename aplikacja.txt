@@ -1,2 +1,3 @@
-zaloguj usera
+logowanie microsoft
+zaloguj usera microsoft
 otwórz
