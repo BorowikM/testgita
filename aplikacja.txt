@@ -1,10 +1,12 @@
 zaloguj usera
 otwórz
 
+Logowanie do Google:
 dodanie logowania google
 zaloguj usera google
 otwórz google
 
+Logowanie do Microsoft:
 logowanie microsoft
 zaloguj usera microsoft
 otwórz
