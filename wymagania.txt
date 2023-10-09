@@ -1,5 +1,5 @@
-1
-2
-3
+1standardowe
+2google
+3microsoft
 4
 5

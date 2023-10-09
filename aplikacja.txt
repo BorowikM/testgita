@@ -11,3 +11,5 @@ logowanie microsoft
 zaloguj usera microsoft
 otwórz
 
+przypomnij Haslo:
+{kliknij na przycisk przypopmnij Haslo}
